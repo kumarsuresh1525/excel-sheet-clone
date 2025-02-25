@@ -1,10 +1,10 @@
 import React from 'react';
-import Grid from './components/Grid';
+import ExcelSheet from './components/ExcelSheet/ExcelSheet';
 
 const App: React.FC = () => {
   return (
     <div>
-      <Grid />
+      <ExcelSheet />
     </div>
   );
 };

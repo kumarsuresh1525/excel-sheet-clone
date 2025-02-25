@@ -1,0 +1,9 @@
+.header-container {
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #dee2e6;
+  border-right: 1px solid #dee2e6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
