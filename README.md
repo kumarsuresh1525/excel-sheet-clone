@@ -1,9 +1,10 @@
-# excel-sheet-clone
+## Getting Started
 
-# Step to install and run application
+First, run the development server:
 
-# Required package yarn, node
+```bash
+yarn install
+yarn start
+```
 
-# yarn install
-# yarn start
-# Open http://localhost:8080
+Open [http://localhost:8080](http://localhost:8080) with your browser to see the result.
