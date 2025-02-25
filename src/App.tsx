@@ -1,9 +1,10 @@
 import React from 'react';
+import Grid from './components/Grid';
 
 const App: React.FC = () => {
   return (
     <div>
-      <h1>Hello World!</h1>
+      <Grid />
     </div>
   );
 };

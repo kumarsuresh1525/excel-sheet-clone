@@ -18,6 +18,10 @@ module.exports = {
         use: 'ts-loader',
         exclude: /node_modules/,
       },
+      {
+        test: /\.css$/, // Add this rule for CSS files
+        use: ['style-loader', 'css-loader'], // Use style-loader and css-loader
+      }
     ],
   },
   devServer: {
